@@ -1,0 +1,10 @@
+---
+
+### Steps to Set Up the Project:
+
+1. **Install Python**: Ensure you have Python 3.8 or higher installed.
+
+2. **Install Dependencies**:
+   In your project directory, create a `requirements.txt` file and run:
+   ```bash
+   pip install -r requirements.txt
